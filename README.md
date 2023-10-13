@@ -5,7 +5,7 @@ Escola: Ebac
 
 Módulo 9
 
-Criação de uma classe, onde é demonstrado no console um valor numérico em variável do tipo primitivo. Em seguida é feita a conversão do tipo Wrapper.
+Criação de uma classe, onde é demonstrado no console um valor numérico em variável do tipo primitivo. Em seguida é feita a conversão do tipo Wrapper, (sintaxe de casting em Java).
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
