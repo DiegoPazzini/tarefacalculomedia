@@ -3,9 +3,9 @@
 Curso: Back End
 Escola: Ebac
 
-Módulo 8
+Módulo 9
 
-Tarefa Cálculo de Média de 4 notas
+Criação de uma classe, onde é demonstrado no console um valor numérico em variável do tipo primitivo. Em seguida é feita a conversão do tipo Wrapper.
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
