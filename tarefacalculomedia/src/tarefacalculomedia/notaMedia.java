@@ -8,7 +8,7 @@ public class notaMedia{
         int num3 = 7;
         int num4 = 6;
 
-        int num5 = 10 + 9 + 7 + 6;
+        int num5 = num1 + num2 + num3 + num4;
         int soma = num5 / 4;
 
 
