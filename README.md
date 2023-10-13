@@ -3,9 +3,9 @@
 Curso: Back End
 Escola: Ebac
 
-Módulo 9
+Módulo 8
 
-Criação de uma classe, onde é demonstrado no console um valor numérico em variável do tipo primitivo. Em seguida é feita a conversão do tipo Wrapper, (sintaxe de casting em Java).
+Código criado para calcular a média de 4 notas, o resultado é impresso no console.
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
